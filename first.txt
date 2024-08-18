@@ -2,3 +2,6 @@ this is my first file
 hello from here
 hello
 this is fourth line
+this fifth line
+this six line
+this is seventh line
